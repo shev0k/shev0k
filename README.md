@@ -45,7 +45,7 @@
 </table>
 
 <div align="center">
-<a href="https://github.com/BrunnerLivio/brunnerlivio/issues/62#issuecomment-new"><img src="images/guestbook.svg"></a> 
+<a href="https://github.com/shev0k/shev0k/issues/1#issuecomment-new"><img src="images/guestbook.svg"></a> 
 </div>
 
 <!-- Guestbook -->
