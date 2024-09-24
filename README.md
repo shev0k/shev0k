@@ -51,7 +51,8 @@
 <div align="center">
 <br />
 <!-- Guestbook -->
-
+| Name | Date | Message |
+|---|---|---|
 <!-- /Guestbook -->
 
 </div>
