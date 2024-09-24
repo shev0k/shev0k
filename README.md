@@ -48,6 +48,7 @@
 <a href="https://github.com/shev0k/shev0k/issues/1#issuecomment-new"><img src="images/guestbook.svg"></a> 
 </div>
 
+<div align="center">
 
 <!-- Guestbook -->
 | Name | Date | Message |
@@ -55,6 +56,7 @@
 | <a href="https://github.com/shev0k"><img width="24" src="https://avatars.githubusercontent.com/u/102088719?s=24&u=0f2e5a2c242d6fdc0d9731e0be96f69de16fc933&v=4" alt="shev0k" /> shev0k</a> |9/24/2024, 3:29:06 PM|Hey! 👋<br />Sign my guestbook by leaving a comment here!|
 <!-- /Guestbook -->
 
+</div>
 
 <!-- Footer -->
 
