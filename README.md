@@ -63,7 +63,7 @@
 
 <div align="center">
 
-<img height="30" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/shev0k/shev0k/d353f4752ca0a29ba3c7661138262f6217b70d66/images/marquee.svg" />
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/shev0k/shev0k/d353f4752ca0a29ba3c7661138262f6217b70d66/images/marquee.svg" />
 <br />
 
 ![Visitor Count](https://profile-counter.glitch.me/shev0k/count.svg)
