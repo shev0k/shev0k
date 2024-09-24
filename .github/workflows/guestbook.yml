@@ -56,9 +56,10 @@ jobs:
             const fileSystem = require('fs');
             const readme = fileSystem.readFileSync('README.md', 'utf8');
             fileSystem.writeFileSync('README.md', readme.replace(/(?<=<!-- Guestbook -->.*\n)[\S\s]*?(?=<!-- \/Guestbook -->|$(?![\n]))/gm, renderComments(result.repository.issue.comments.nodes)), 'utf8');
-      - name: Push guestbook update
+      - name: Set up git for pushing changes
         run: |
           git config --global user.name 'Github Actions'
           git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git remote set-url origin https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/shev0k/shev0k.git
           git commit -am ':sparkles: update guestbook'
           git push
