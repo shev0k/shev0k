@@ -9,7 +9,7 @@ name: Guestbook
 
 jobs:
   update_guestbook:
-    name: Update guestbook
+    name: Update guestbook test
     if: ${{ github.event.issue.title == 'Guestbook' }}
     runs-on: ubuntu-latest
 
