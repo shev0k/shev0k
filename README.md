@@ -67,7 +67,7 @@
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/shev0k/shev0k/d353f4752ca0a29ba3c7661138262f6217b70d66/images/marquee.svg" />
 <br />
 
-<img src="https://profile-counter.deno.dev/shev0k/count.svg" alt="Key:: Visitor's Count" />
+<img src="https://profile-counter.deno.dev/shev0k/count.svg" alt="Key:: Visitor's Count" /><br>
 
 
 <img src="https://raw.githubusercontent.com/shev0k/shev0k/refs/heads/main/images/notepad.gif" alt="Site created with Notepad" height="30" />
